@@ -1,0 +1,9 @@
+!.gitkeep
+/venv
+
+# cache files
+__pycache__
+
+# IDE-related files
+/.idea/
+/.vscode/
